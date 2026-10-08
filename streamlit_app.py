@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 from io import BytesIO
@@ -398,4 +397,3 @@ if uploaded_file is not None:
             "spreadsheetml.sheet"
         )
     )
-```
